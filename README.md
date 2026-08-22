@@ -35,7 +35,7 @@ The project focuses on migrating legacy workflows to modern cloud-based solution
 ### Management
 
 - Project Sponsor: Executive Leadership Team
-- Project Manager: Akshay Sawant
+- Project Manager: Rahul
 - Technical Lead: Engineering Team
 - Business Lead: Operations Team
 
